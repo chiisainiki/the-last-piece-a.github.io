@@ -1,3 +1,12 @@
+@font-face {
+  font-family: 'HiraMaru';
+  src: url('fonts/HiraMaruProN-W4-AlphaNum-02.otf') format('opentype');
+}
+
+body {
+  font-family: 'HiraMaru', sans-serif;
+}
+
 body {
   font-family: 'Poppins', sans-serif;
   background: linear-gradient(135deg, #1b2e2b, #3fa96e);
