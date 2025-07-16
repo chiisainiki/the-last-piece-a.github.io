@@ -147,3 +147,30 @@ footer {
   border: 2px solid #a3d9a5;
   box-shadow: 0 0 12px rgba(163, 217, 165, 0.4);
 }
+.profile-pic {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%; /* makes it circular */
+  margin-bottom: 0.5rem;
+}
+
+.see-more {
+  background-color: #a3d9a5;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-top: 0.5rem;
+}
+
+.extra-info {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #444;
+}
+
+.hidden {
+  display: none;
+}
