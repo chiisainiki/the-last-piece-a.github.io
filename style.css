@@ -115,3 +115,35 @@ footer {
   cursor: pointer;
   color: #fff;
 }
+.grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr); /* 6 cards per row */
+  gap: 1.5rem;
+  padding: 2rem;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 1rem;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(76, 174, 116, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 0.5rem;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}
+
+/* 🌟 top 9 glow */
+.top-pick {
+  transform: scale(1.15);
+  border: 2px solid #a3d9a5;
+  box-shadow: 0 0 12px rgba(163, 217, 165, 0.4);
+}
