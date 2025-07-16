@@ -1,0 +1,232 @@
+[
+  {
+    "stage_name": "RUI (川島塁)",
+    "full_name": "川島塁 (Kawashima Rui)",
+    "birth": "2007-06-01",
+    "origin": "Tokyo, Japan",
+    "role": "Vocalist",
+    "image": "images/rui.jpg"
+  },
+  {
+    "stage_name": "KANON (湯本日穏)",
+    "full_name": "湯本日穏 (Yumoto Kanon)",
+    "birth": "2006-04-03",
+    "origin": "Fukuoka, Japan",
+    "role": "Dancer",
+    "image": "images/kanon.jpg"
+  },
+  {
+    "stage_name": "KEI (岡野敬)",
+    "full_name": "岡野敬 (Okano Kei)",
+    "birth": "2006-07-17",
+    "origin": "Osaka, Japan",
+    "role": "Rapper",
+    "image": "images/kei.jpg"
+  },
+  {
+    "stage_name": "A.J. (明星アダム)",
+    "full_name": "明星アダム (Myojo Adam)",
+    "birth": "2006-08-11",
+    "origin": "Selangor, Malaysia",
+    "role": "Dancer",
+    "image": "images/aj.jpg"
+  },
+  {
+    "stage_name": "SHO (ウイリアムズ昌)",
+    "full_name": "ウイリアムズ昌 (Williams Sho)",
+    "birth": "2006-12-30",
+    "origin": "Tokyo, Japan",
+    "role": "Vocalist",
+    "image": "images/sho.jpg"
+  },
+  {
+    "stage_name": "GOICHI (福井護一)",
+    "full_name": "福井護一 (Fukui Goichi)",
+    "birth": "2006-12-14",
+    "origin": "Saitama, Japan",
+    "role": "Rapper",
+    "image": "images/goichi.jpg"
+  },
+  {
+    "stage_name": "RAITO (ライト)",
+    "birth": "2006-11-28",
+    "origin": "Osaka, Japan",
+    "role": "Vocalist",
+    "image": "images/raito.jpg"
+  },
+  {
+    "stage_name": "TAIKI (溝口太基)",
+    "full_name": "溝口太基 (Mizoguchi Taiki)",
+    "birth": "2007-07-28",
+    "origin": "Tokyo, Japan",
+    "role": "All-rounder",
+    "image": "images/taiki.jpg"
+  },
+  {
+    "stage_name": "YU (髙橋優太)",
+    "full_name": "髙橋優太 (Takahashi Yuta)",
+    "birth": "2012-02-16",
+    "origin": "Kanagawa, Japan",
+    "role": "Rapper",
+    "image": "images/yu.jpg"
+  },
+  {
+    "stage_name": "AOI (椿葵)",
+    "full_name": "椿葵 (Tsubaki Aoi)",
+    "birth": "2010-10-07",
+    "origin": "Hyogo, Japan",
+    "role": "Visual",
+    "image": "images/aoi.jpg"
+  },
+  {
+    "stage_name": "REN (森蓮)",
+    "full_name": "森蓮 (Mori Ren)",
+    "birth": "2007-05-11",
+    "origin": "Aichi, Japan",
+    "role": "Rapper",
+    "image": "images/ren.jpg"
+  },
+  {
+    "stage_name": "HAL (ハル)",
+    "birth": "2009-11-19",
+    "origin": "Tokyo, Japan",
+    "role": "Dancer",
+    "image": "images/hal.jpg"
+  },
+  {
+    "stage_name": "RAIKI (松村來輝)",
+    "full_name": "松村來輝 (Matsumura Raiki)",
+    "birth": "2007-05-13",
+    "origin": "Kyoto, Japan",
+    "role": "Vocalist",
+    "image": "images/raiki.jpg"
+  },
+  {
+    "stage_name": "COTA (コタ)",
+    "birth": "2009-12-06",
+    "origin": "Niigata, Japan",
+    "role": "Dancer",
+    "image": "images/cota.jpg"
+  },
+  {
+    "stage_name": "RYOMA (リョウマ)",
+    "birth": "2008-08-06",
+    "origin": "Nagano, Japan",
+    "role": "Dancer",
+    "image": "images/ryoma.jpg"
+  },
+  {
+    "stage_name": "KEISHIN (鞘師圭伸)",
+    "full_name": "鞘師圭伸 (Sayashi Keishin)",
+    "birth": "2012-02-24",
+    "origin": "Hyogo, Japan",
+    "role": "Trainee",
+    "image": "images/keishin.jpg"
+  },
+  {
+    "stage_name": "RYOTO (宮原稜虎)",
+    "full_name": "宮原稜虎 (Miyahara Ryoto)",
+    "birth": "2010-03-24",
+    "origin": "Fukuoka, Japan",
+    "role": "Dancer",
+    "image": "images/ryoto.jpg"
+  },
+  {
+    "stage_name": "KAIRI (中井海琉)",
+    "full_name": "中井海琉 (Nakai Kairi)",
+    "birth": "2010-04-06",
+    "origin": "Osaka, Japan",
+    "role": "Vocalist",
+    "image": "images/kairi.jpg"
+  },
+  {
+    "stage_name": "YUTA (松澤侑汰)",
+    "full_name": "松澤侑汰 (Matsuzawa Yuta)",
+    "birth": "2007-09-11",
+    "origin": "Tokyo, Japan",
+    "role": "Vocalist",
+    "image": "images/yuta.jpg"
+  },
+  {
+    "stage_name": "TAICHI (高橋泰智)",
+    "full_name": "高橋泰智 (Takahashi Taichi)",
+    "birth": "2007-05-16",
+    "origin": "Tokyo, Japan",
+    "role": "Rapper",
+    "image": "images/taichi.jpg"
+  },
+  {
+    "stage_name": "SOLA (ソラ)",
+    "birth": "2008-08-19",
+    "origin": "Tochigi, Japan",
+    "role": "Dancer",
+    "image": "images/sola.jpg"
+  },
+  {
+    "stage_name": "REO (レオ)",
+    "birth": "2009-03-16",
+    "origin": "Saitama, Japan",
+    "role": "Dancer",
+    "image": "images/reo.jpg"
+  },
+  {
+    "stage_name": "TAISEI (タイセイ)",
+    "birth": "2010-02-19",
+    "origin": "Kanagawa, Japan",
+    "role": "Dancer",
+    "image": "images/taisei.jpg"
+  },
+  {
+    "stage_name": "TOMOSHI (トモシ)",
+    "birth": "2005-03-21",
+    "origin": "Fukuoka, Japan",
+    "role": "Vocalist",
+    "image": "images/tomoshi.jpg"
+  },
+  {
+    "stage_name": "ADAM (アヤロンアダム)",
+    "full_name": "アヤロンアダム (Ayalon Adam)",
+    "birth": "2005-04-24",
+    "origin": "Tokyo, Japan",
+    "role": "Vocalist",
+    "image": "images/adam.jpg"
+  },
+  {
+    "stage_name": "ISANA (久保勢波)",
+    "full_name": "久保勢波 (Kubo Isana)",
+    "birth": "2008-03-28",
+    "origin": "Osaka, Japan",
+    "role": "Rapper",
+    "image": "images/isana.jpg"
+  },
+  {
+    "stage_name": "KAN (樋渡環)",
+    "full_name": "樋渡環 (Hiwatashi Kan)",
+    "birth": "2009-07-04",
+    "origin": "Tokyo, Japan",
+    "role": "Rapper",
+    "image": "images/kan.jpg"
+  },
+  {
+    "stage_name": "KANTA (カンタ)",
+    "birth": "2008-05-21",
+    "origin": "Tokyo, Japan",
+    "role": "Vocalist",
+    "image": "images/kanta.jpg"
+  },
+  {
+    "stage_name": "KEITO (ケイト)",
+    "birth": "2009-11-14",
+    "origin": "Saitama, Japan",
+    "role": "Dancer",
+    "image": "images/keito.jpg"
+  },
+  {
+    "stage_name": "EITA (森英汰)",
+    "full_name": "森英汰 (Mori Eita)",
+    "birth": "2009-03-28",
+    "origin": "Saitama, Japan",
+    "role": "Rapper",
+    "image": "images/eita.jpg"
+  }
+]
