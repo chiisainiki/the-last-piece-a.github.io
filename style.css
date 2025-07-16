@@ -5,16 +5,16 @@
 
 body {
   font-family: 'HiraMaru', sans-serif;
-}
-
-body {
-  font-family: 'Poppins', sans-serif;
   background: linear-gradient(135deg, #1b2e2b, #3fa96e);
   color: #fff;
   margin: 0;
   padding: 0;
   overflow-x: hidden;
+  letter-spacing: 0.03em;
+  line-height: 1.6;
 }
+
+
 
 header {
   text-align: center;
@@ -182,4 +182,7 @@ footer {
 
 .hidden {
   display: none;
+}
+.card h2 {
+  font-family: 'HiraMaru', sans-serif;
 }
